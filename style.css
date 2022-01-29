@@ -1,0 +1,152 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    max-width:100%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:8%;
+  }
+  
+  .logo2{
+    display: flex;
+    justify-content: center;
+    max-width:100%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:2%;
+  }
+  
+  footer{
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    text-decoration: none;
+    font-size:15px;
+    background-color: white;
+    color:black;
+    padding: 1em 1em;
+  }
+  
+  body{
+    background-image: url('images/baking.jpeg');
+    background-repeat: repeat;
+  }
+  
+  .various{
+    background-color:burlywood;
+    height:100%;
+    width:100%;
+    font-family: 'Tahoma',Geneva, Verdana, sans-serif;
+    font-size:20px;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  h1{
+    font-size:40px;
+  }
+  
+  ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  li{
+    border-color: black;
+    text-align:center;
+    border:1px solid;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+    color:mintcream;
+    font-size: 25px;
+    width:200px;
+    height:200px;
+    line-height: 32.5px;
+  }
+  
+  #celebration{
+    background-image: url(images/celebration.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  #favourites{
+    background-image: url(images/staple.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  #competition{
+    background-image: url(images/competition.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .list{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    position: relative;
+    height:100%;
+  }
+  
+  #facebook{
+    padding:0.5em;
+  }
+  
+  #instagram{
+    padding:0.5em;
+  }
+  
+  .cake1{
+    height:25vw;
+    width:25vw;
+    padding:1em;
+    position: relative;
+  }
+  
+  .cake2{
+    height:25vw;
+    width:25vw;
+    padding:1em;
+    position: relative;
+  }
+  
+  .cake3{
+    height:25vw;
+    width:25vw;
+    padding:1em;
+    position: relative;
+  }
+  
+  .container{
+    display: flex;
+    justify-content: center;
+    border:0.2em solid;
+    position: relative;
+    background-color:azure;
+    margin:1%;
+  }
+  
+  a{
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    text-align:center;
+    color:black;
+    display: inline-block;
+    justify-content: center;
+    
+  }
+  
+  .images{
+    display: inline-block;
+    justify-content: center;
+    height:25vw;
+    width:25vw;
+    padding:1em;
+    position: relative;
+  }
